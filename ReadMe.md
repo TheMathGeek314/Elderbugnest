@@ -1,4 +1,4 @@
-# ElderbugsEverywhere
+# Elderbugnest
 
 A mod for the game Hollow Knight.
 This mod replaces the following NPCs with Elderbug:
